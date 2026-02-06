@@ -1,0 +1,46 @@
+BATTLE MASTER (Fighter Subclass)
+
+Available at 3rd level
+
+The Battle Master is a tactical fighter who uses superiority dice to perform special combat maneuvers.
+
+FEATURES:
+
+Combat Superiority (3rd level)
+• Gain 4 superiority dice (d8)
+• Learn 3 maneuvers from the Battle Master list
+• Regain all superiority dice on short or long rest
+
+Student of War (3rd level)
+• Gain proficiency with one type of artisan's tools
+
+Know Your Enemy (7th level)
+• Spend 1 minute observing a creature to learn if it's equal, superior, or inferior to you in two characteristics: Strength, Dexterity, Constitution, Armor Class, Current HP, Total Class Levels, or Fighter Class Levels
+
+Improved Combat Superiority (10th level)
+• Superiority dice become d10
+
+Relentless (15th level)
+• Regain 1 superiority die if you have none at the start of your turn
+
+Additional Superiority Dice (18th level)
+• Superiority dice become d12
+• Gain 2 more superiority dice (total of 6)
+
+MANEUVERS (Choose 3 at 3rd level, more at higher levels):
+• Commander's Strike: Direct ally to attack
+• Disarming Attack: Force enemy to drop item
+• Distracting Strike: Give ally advantage
+• Evasive Footwork: Increase AC while moving
+• Feinting Attack: Gain advantage on attack
+• Goading Attack: Provoke enemy to attack you
+• Lunging Attack: Increase reach by 5 feet
+• Maneuvering Attack: Allow ally to move without provoking
+• Menacing Attack: Frighten enemy
+• Parry: Reduce incoming damage
+• Precision Attack: Add to attack roll
+• Pushing Attack: Push enemy back
+• Rally: Give ally temporary HP
+• Riposte: Make opportunity attack when missed
+• Sweeping Attack: Damage additional creature
+• Trip Attack: Knock enemy prone

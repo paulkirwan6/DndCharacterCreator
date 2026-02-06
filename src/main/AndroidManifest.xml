@@ -35,6 +35,9 @@
         <activity
             android:name=".ClassDetailActivity"
             android:label="Class Details" />
+        <activity
+            android:name=".SubclassDetailActivity"
+            android:label="Subclass Details" />
     </application>
 
 </manifest>

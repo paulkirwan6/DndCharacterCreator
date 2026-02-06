@@ -1,0 +1,38 @@
+ELF
+
+Ability Score Increase: +2 Dexterity
+
+Age: Reach adulthood around 100, live up to 750 years
+
+Size: Medium (5-6 feet tall, slender build)
+
+Speed: 30 feet
+
+Languages: Common and Elvish
+
+Traits:
+• Darkvision: See in dim light within 60 feet as if it were bright light
+• Keen Senses: Proficiency in Perception skill
+• Fey Ancestry: Advantage on saves against being charmed, magic can't put you to sleep
+• Trance: Meditate 4 hours instead of sleeping 8 hours
+
+SUBRACES:
+
+High Elf
+• +1 Intelligence
+• Weapon Training: Proficiency with longsword, shortsword, shortbow, and longbow
+• Cantrip: Know one wizard cantrip of your choice
+• Extra Language: Learn one additional language
+
+Wood Elf
+• +1 Wisdom
+• Weapon Training: Proficiency with longsword, shortsword, shortbow, and longbow
+• Fleet of Foot: Base walking speed increases to 35 feet
+• Mask of the Wild: Can attempt to hide in light foliage, rain, snow, or mist
+
+Drow (Dark Elf)
+• +1 Charisma
+• Superior Darkvision: Darkvision extends to 120 feet
+• Sunlight Sensitivity: Disadvantage on attack rolls and Perception checks in sunlight
+• Drow Magic: Know dancing lights cantrip. At 3rd level, cast faerie fire once per day. At 5th level, cast darkness once per day
+• Weapon Training: Proficiency with rapiers, shortswords, and hand crossbows

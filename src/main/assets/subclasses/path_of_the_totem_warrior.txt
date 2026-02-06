@@ -1,0 +1,57 @@
+PATH OF THE TOTEM WARRIOR (Barbarian Subclass)
+
+Available at 3rd level
+
+Totem warriors draw spiritual power from animal spirits, gaining supernatural abilities that reflect their chosen totem.
+
+FEATURES:
+
+Spirit Seeker (3rd level)
+• Gain the ability to cast beast sense and speak with animals as rituals
+
+Totem Spirit (3rd level)
+Choose one totem animal. Gain its benefit while raging:
+
+Bear
+• Resistance to all damage except psychic damage
+• Most popular choice for maximum survivability
+
+Eagle
+• Other creatures have disadvantage on opportunity attack rolls against you
+• You can use the Dash action as a bonus action
+
+Wolf
+• Your friends have advantage on melee attack rolls against any creature within 5 feet of you that is hostile to you
+
+Aspect of the Beast (6th level)
+Choose one totem animal:
+
+Bear
+• Carrying capacity doubles
+• Advantage on Strength checks to push, pull, lift, or break objects
+
+Eagle
+• You can see up to 1 mile away with no difficulty
+• Dim light doesn't impose disadvantage on Wisdom (Perception) checks
+
+Wolf
+• You can track creatures while traveling at a fast pace
+• You can move stealthily while traveling at a normal pace
+
+Spirit Walker (10th level)
+• Cast commune with nature as a ritual
+• When you do so, a spiritual version of your totem animal appears to convey information
+
+Totemic Attunement (14th level)
+Choose one totem animal:
+
+Bear
+• While raging, any creature within 5 feet that's hostile to you has disadvantage on attack rolls against targets other than you or another Totem Warrior with this feature
+• Enemy must be able to see or hear you and not be incapacitated
+
+Eagle
+• While raging, you have a flying speed equal to your current walking speed
+• This benefit works only in short bursts; you fall if you end your turn in the air
+
+Wolf
+• While raging, you can use a bonus action on your turn to knock a Large or smaller creature prone when you hit it with a melee weapon attack

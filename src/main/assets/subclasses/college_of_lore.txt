@@ -1,0 +1,26 @@
+COLLEGE OF LORE (Bard Subclass)
+
+Available at 3rd level
+
+Bards of the College of Lore are masters of knowledge and secrets, using their wit and skill to support allies and confound enemies.
+
+FEATURES:
+
+Bonus Proficiencies (3rd level)
+• Gain proficiency with three skills of your choice
+
+Cutting Words (3rd level)
+• Use your reaction to expend one Bardic Inspiration die
+• Roll the die and subtract the number from a creature's attack roll, ability check, or damage roll
+• You can use this after the creature makes its roll but before the DM determines success or failure
+• The creature must be within 60 feet and able to hear you
+
+Additional Magical Secrets (6th level)
+• Learn two spells of your choice from any class
+• The spells count as bard spells for you but don't count against your number of bard spells known
+• The spells must be of a level you can cast
+
+Peerless Skill (14th level)
+• When you make an ability check, you can expend one use of Bardic Inspiration
+• Roll the Bardic Inspiration die and add it to your ability check
+• You can choose to do so after you roll the die for the ability check, but before the DM tells you whether you succeed or fail

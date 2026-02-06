@@ -1,0 +1,22 @@
+DRAGONBORN
+
+Ability Score Increase: +2 Strength, +1 Charisma
+
+Age: Reach adulthood by 15, live to about 80 years
+
+Size: Medium (over 6 feet tall, 250+ pounds)
+
+Speed: 30 feet
+
+Languages: Common and Draconic
+
+Traits:
+• Draconic Ancestry: Choose one dragon type, determines breath weapon and damage resistance
+  - Black (Acid), Blue (Lightning), Brass (Fire), Bronze (Lightning), Copper (Acid)
+  - Gold (Fire), Green (Poison), Red (Fire), Silver (Cold), White (Cold)
+• Breath Weapon: Exhale destructive energy based on ancestry
+  - 5 by 30 ft. line (Black, Blue, Brass, Bronze, Copper) or 15 ft. cone (Gold, Green, Red, Silver, White)
+  - Damage: 2d6 at 1st level, increases at higher levels
+  - DC: 8 + Constitution modifier + proficiency bonus
+  - Usable once per short or long rest
+• Damage Resistance: Resistance to damage type associated with draconic ancestry

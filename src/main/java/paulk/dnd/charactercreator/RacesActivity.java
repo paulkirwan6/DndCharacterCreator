@@ -33,17 +33,14 @@ public class RacesActivity extends AppCompatActivity {
             tv.setText(races[i] + "\n" + descriptions[i]);
             tv.setTextSize(16);
             tv.setPadding(0, 0, 0, 32);
-            
-            if (hasSubraces[i]) {
-                tv.setTextColor(0xFF2196F3);
-                tv.setClickable(true);
-                String race = races[i];
-                tv.setOnClickListener(v -> {
-                    Intent intent = new Intent(this, RaceDetailActivity.class);
-                    intent.putExtra("race", race);
-                    startActivity(intent);
-                });
-            }
+            tv.setTextColor(0xFF2196F3);
+            tv.setClickable(true);
+            String race = races[i];
+            tv.setOnClickListener(v -> {
+                Intent intent = new Intent(this, RaceDetailActivity.class);
+                intent.putExtra("race", race);
+                startActivity(intent);
+            });
             
             container.addView(tv);
         }

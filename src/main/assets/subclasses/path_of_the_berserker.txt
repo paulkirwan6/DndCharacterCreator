@@ -1,0 +1,27 @@
+PATH OF THE BERSERKER (Barbarian Subclass)
+
+Available at 3rd level
+
+Berserkers are barbarians who lose themselves to the chaos of battle, entering a frenzy that makes them even more dangerous.
+
+FEATURES:
+
+Frenzy (3rd level)
+• While raging, you can go into a frenzy as a bonus action
+• For the duration of your rage, you can make a single melee weapon attack as a bonus action on each of your turns after this one
+• When your rage ends, you suffer one level of exhaustion
+
+Mindless Rage (6th level)
+• You can't be charmed or frightened while raging
+• If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage
+
+Intimidating Presence (10th level)
+• Use your action to frighten someone with your menacing presence
+• Choose one creature within 30 feet that can see or hear you
+• Target must succeed on a Wisdom saving throw (DC = 8 + proficiency bonus + Charisma modifier) or be frightened until the end of your next turn
+• On subsequent turns, you can use your action to extend the duration until the end of your next turn
+• Effect ends if the creature ends its turn out of line of sight or more than 60 feet away
+• If the creature succeeds on its saving throw, you can't use this feature on that creature again for 24 hours
+
+Retaliation (14th level)
+• When you take damage from a creature within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature

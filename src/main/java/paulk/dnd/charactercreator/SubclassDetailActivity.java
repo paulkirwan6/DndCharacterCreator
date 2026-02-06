@@ -6,21 +6,22 @@ import androidx.appcompat.app.AppCompatActivity;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class RaceDetailActivity extends AppCompatActivity {
+public class SubclassDetailActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_race_detail);
+        setContentView(R.layout.activity_subclass_detail);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         
-        String race = getIntent().getStringExtra("race");
-        TextView tv = findViewById(R.id.tvRaceDetail);
+        String className = getIntent().getStringExtra("class");
+        String subclass = getIntent().getStringExtra("subclass");
+        TextView tv = findViewById(R.id.tvSubclassDetail);
         
-        String filename = race.toLowerCase().replace("-", "") + ".txt";
+        String filename = subclass.toLowerCase().replace(" ", "_").replace("'", "") + ".txt";
         String content = loadFromAssets(filename);
         
         if (content.isEmpty()) {
-            content = race + "\n\nInformation coming soon...";
+            content = subclass + "\n\nInformation coming soon...";
         }
         
         tv.setText(content);
@@ -28,7 +29,7 @@ public class RaceDetailActivity extends AppCompatActivity {
     
     private String loadFromAssets(String filename) {
         try {
-            BufferedReader reader = new BufferedReader(new InputStreamReader(getAssets().open("races/" + filename)));
+            BufferedReader reader = new BufferedReader(new InputStreamReader(getAssets().open("subclasses/" + filename)));
             StringBuilder sb = new StringBuilder();
             String line;
             while ((line = reader.readLine()) != null) {

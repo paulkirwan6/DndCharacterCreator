@@ -1,0 +1,26 @@
+HALFLING
+
+Ability Score Increase: +2 Dexterity
+
+Age: Reach adulthood at 20, live to about 150 years
+
+Size: Small (about 3 feet tall)
+
+Speed: 25 feet
+
+Languages: Common and Halfling
+
+Traits:
+• Lucky: Reroll 1s on attack rolls, ability checks, and saving throws
+• Brave: Advantage on saving throws against being frightened
+• Halfling Nimbleness: Can move through space of larger creatures
+
+SUBRACES:
+
+Lightfoot Halfling
+• +1 Charisma
+• Naturally Stealthy: Can attempt to hide even when obscured only by a creature one size larger
+
+Stout Halfling
+• +1 Constitution
+• Stout Resilience: Advantage on saves against poison, resistance to poison damage

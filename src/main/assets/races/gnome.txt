@@ -1,0 +1,27 @@
+GNOME
+
+Ability Score Increase: +2 Intelligence
+
+Age: Mature around 40, live 350-500 years
+
+Size: Small (3-4 feet tall)
+
+Speed: 25 feet
+
+Languages: Common and Gnomish
+
+Traits:
+• Darkvision: See in dim light within 60 feet as if it were bright light
+• Gnome Cunning: Advantage on Intelligence, Wisdom, and Charisma saves against magic
+
+SUBRACES:
+
+Forest Gnome
+• +1 Dexterity
+• Natural Illusionist: Know the minor illusion cantrip (Intelligence is spellcasting ability)
+• Speak with Small Beasts: Communicate simple ideas with Small or smaller beasts
+
+Rock Gnome
+• +1 Constitution
+• Artificer's Lore: Add double proficiency bonus to Intelligence (History) checks for magic items, alchemical objects, or technological devices
+• Tinker: Proficiency with artisan's tools (tinker's tools). Can create tiny clockwork devices

@@ -1,0 +1,18 @@
+HALF-ORC
+
+Ability Score Increase: +2 Strength, +1 Constitution
+
+Age: Mature faster than humans, reach adulthood around 14, live to about 75 years
+
+Size: Medium (6-7 feet tall)
+
+Speed: 30 feet
+
+Languages: Common and Orc
+
+Traits:
+• Darkvision: See in dim light within 60 feet as if it were bright light
+• Menacing: Proficiency in Intimidation skill
+• Relentless Endurance: When reduced to 0 HP but not killed, drop to 1 HP instead (once per long rest)
+• Savage Attacks: When you score a critical hit with melee weapon, roll one additional weapon damage die
+• Excellent choice for martial classes, especially Barbarian and Fighter

@@ -1,0 +1,32 @@
+WAY OF THE OPEN HAND (Monk Subclass)
+
+Available at 3rd level
+
+Monks of the Way of the Open Hand are masters of unarmed combat, using their ki to enhance their martial techniques.
+
+FEATURES:
+
+Open Hand Technique (3rd level)
+• Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects:
+  - The target must succeed on a Dexterity saving throw or be knocked prone
+  - The target must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you
+  - The target can't take reactions until the end of your next turn
+
+Wholeness of Body (6th level)
+• As an action, you can regain hit points equal to three times your monk level
+• You must finish a long rest before you can use this feature again
+
+Tranquility (11th level)
+• At the end of a long rest, you gain the effect of a sanctuary spell that lasts until the start of your next long rest
+• The saving throw DC equals 8 + your Wisdom modifier + your proficiency bonus
+• If you attack or cast a spell that affects an enemy creature, the effect ends
+
+Quivering Palm (17th level)
+• When you hit a creature with an unarmed strike, you can spend 3 ki points to start imperceptible vibrations
+• The vibrations are harmless unless you use your action to end them
+• To use this feature, you and the target must be on the same plane of existence
+• When you use this action, the creature must make a Constitution saving throw
+• If it fails, it is reduced to 0 hit points
+• If it succeeds, it takes 10d10 necrotic damage
+• You can have only one creature under the effect of this feature at a time
+• You can end the vibrations harmlessly without using an action

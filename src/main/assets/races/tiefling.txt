@@ -1,0 +1,21 @@
+TIEFLING
+
+Ability Score Increase: +2 Charisma, +1 Intelligence
+
+Age: Mature at same rate as humans, live a few years longer
+
+Size: Medium (same size and build as humans)
+
+Speed: 30 feet
+
+Languages: Common and Infernal
+
+Traits:
+• Darkvision: See in dim light within 60 feet as if it were bright light
+• Hellish Resistance: Resistance to fire damage
+• Infernal Legacy: Innate spellcasting (Charisma is spellcasting ability)
+  - Know thaumaturgy cantrip
+  - At 3rd level: Cast hellish rebuke once per long rest as 2nd-level spell
+  - At 5th level: Cast darkness once per long rest
+• Infernal heritage makes them natural spellcasters
+• Great choice for Warlock, Sorcerer, Bard, or Paladin

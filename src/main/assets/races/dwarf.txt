@@ -1,0 +1,28 @@
+DWARF
+
+Ability Score Increase: +2 Constitution
+
+Age: Mature around 50, live about 350 years
+
+Size: Medium (4-5 feet tall, stocky and heavy)
+
+Speed: 25 feet (not reduced by wearing heavy armor)
+
+Languages: Common and Dwarvish
+
+Traits:
+• Darkvision: See in dim light within 60 feet as if it were bright light
+• Dwarven Resilience: Advantage on saves against poison, resistance to poison damage
+• Dwarven Combat Training: Proficiency with battleaxe, handaxe, light hammer, and warhammer
+• Tool Proficiency: Proficiency with artisan's tools (smith's, brewer's, or mason's)
+• Stonecunning: Add double proficiency bonus to Intelligence (History) checks related to stonework
+
+SUBRACES:
+
+Hill Dwarf
+• +1 Wisdom
+• Dwarven Toughness: Hit point maximum increases by 1 per level
+
+Mountain Dwarf
+• +2 Strength
+• Armor Training: Proficiency with light and medium armor

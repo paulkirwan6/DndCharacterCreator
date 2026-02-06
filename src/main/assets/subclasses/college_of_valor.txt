@@ -1,0 +1,21 @@
+COLLEGE OF VALOR (Bard Subclass)
+
+Available at 3rd level
+
+Bards of the College of Valor are daring warriors who inspire others through deeds of bravery and tales of heroism.
+
+FEATURES:
+
+Bonus Proficiencies (3rd level)
+• Gain proficiency with medium armor, shields, and martial weapons
+
+Combat Inspiration (3rd level)
+• A creature with a Bardic Inspiration die from you can use it in additional ways:
+  - When the creature is hit by an attack, it can use its reaction to roll the die and add it to its AC against that attack, potentially causing it to miss
+  - When the creature deals damage with a weapon attack, it can roll the die and add it to the weapon's damage roll
+
+Extra Attack (6th level)
+• You can attack twice, instead of once, whenever you take the Attack action on your turn
+
+Battle Magic (14th level)
+• When you use your action to cast a bard spell, you can make one weapon attack as a bonus action

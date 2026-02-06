@@ -1,0 +1,26 @@
+CIRCLE OF THE MOON (Druid Subclass)
+
+Available at 2nd level
+
+Druids of the Circle of the Moon are fierce guardians of the wilds who take on powerful animal forms in combat.
+
+FEATURES:
+
+Combat Wild Shape (2nd level)
+• You can use Wild Shape as a bonus action instead of as an action
+• While in Wild Shape, you can expend one spell slot to regain 1d8 hit points per level of the spell slot expended
+
+Circle Forms (2nd level)
+• You can transform into beasts with a challenge rating as high as 1 (ignoring the Max CR column of the Beast Shapes table)
+• Starting at 6th level, you can transform into a beast with a challenge rating as high as your druid level divided by 3, rounded down
+• Example CR progression: 2nd level (CR 1), 6th level (CR 2), 9th level (CR 3), 12th level (CR 4), 15th level (CR 5), 18th level (CR 6)
+
+Primal Strike (6th level)
+• Your attacks in beast form count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage
+
+Elemental Wild Shape (10th level)
+• You can expend two uses of Wild Shape at the same time to transform into an air elemental, earth elemental, fire elemental, or water elemental
+
+Thousand Forms (14th level)
+• You have learned to use magic to alter your physical form in more subtle ways
+• You can cast the alter self spell at will
