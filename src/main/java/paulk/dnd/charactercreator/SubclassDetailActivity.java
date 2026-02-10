@@ -1,6 +1,8 @@
 package paulk.dnd.charactercreator;
 
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 import java.io.BufferedReader;
@@ -15,7 +17,9 @@ public class SubclassDetailActivity extends AppCompatActivity {
         
         String className = getIntent().getStringExtra("class");
         String subclass = getIntent().getStringExtra("subclass");
+        boolean selectionMode = getIntent().getBooleanExtra("selectionMode", false);
         TextView tv = findViewById(R.id.tvSubclassDetail);
+        Button btnSelect = findViewById(R.id.btnSelectSubclass);
         
         String filename = subclass.toLowerCase().replace(" ", "_").replace("'", "") + ".txt";
         String content = loadFromAssets(filename);
@@ -25,6 +29,15 @@ public class SubclassDetailActivity extends AppCompatActivity {
         }
         
         tv.setText(content);
+        
+        if (selectionMode) {
+            btnSelect.setVisibility(View.VISIBLE);
+            btnSelect.setOnClickListener(v -> {
+                getIntent().putExtra("selectedClass", className + " - " + subclass);
+                setResult(RESULT_OK, getIntent());
+                finish();
+            });
+        }
     }
     
     private String loadFromAssets(String filename) {

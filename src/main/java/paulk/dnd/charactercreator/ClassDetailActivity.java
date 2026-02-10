@@ -14,6 +14,7 @@ public class ClassDetailActivity extends AppCompatActivity {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         
         String className = getIntent().getStringExtra("class");
+        boolean selectionMode = getIntent().getBooleanExtra("selectionMode", false);
         LinearLayout container = findViewById(R.id.classDetailContainer);
         
         TextView header = new TextView(this);
@@ -88,9 +89,19 @@ public class ClassDetailActivity extends AppCompatActivity {
                 Intent intent = new Intent(this, SubclassDetailActivity.class);
                 intent.putExtra("class", className);
                 intent.putExtra("subclass", subclass);
-                startActivity(intent);
+                intent.putExtra("selectionMode", selectionMode);
+                startActivityForResult(intent, 0);
             });
             container.addView(tv);
+        }
+    }
+    
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        if (resultCode == RESULT_OK && data != null) {
+            setResult(RESULT_OK, data);
+            finish();
         }
     }
     
